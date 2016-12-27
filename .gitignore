@@ -1,0 +1,12 @@
+.git/
+*.suo
+*.sln
+*.csproj
+*.unityproj
+*.user
+*.userprefs
+Library/
+Temp/
+obj/
+.vs/
+~$*
